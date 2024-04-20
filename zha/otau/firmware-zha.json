@@ -1,0 +1,27 @@
+[
+    {
+        "fileVersion": 16908817,
+        "fileSize": 309998,
+        "url": "https://inov.li/omega/VZM31-SN_2.17.ota",
+        "manufacturerCode": 4655,
+        "imageType": 257,
+        "sha512": "9d5eff8b6360eb49661e1478fb79227f61ded1c6ce504822345b1d04346d61dbb20a96fa9f4b79b79335925c73fbb45dbeaed6dfe804606c882d4af26d405905"
+    },
+    {
+        "fileVersion": 33685767,
+        "fileSize": 232994,
+        "url": "https://inov.li/omega/VZM35-SN_1.07.ota",
+        "manufacturerCode": 4655,
+        "imageType": 513,
+        "sha512": "cc2e1639debcebb42e8cb8e48559258378112a94eaf6480721ee9ce5b5ab8d562a2b8c0c6df8819b1db9b3a539178f1b1bbf039243cf1184efe1024e4c8f05d0"
+    },
+    {
+        "fileVersion": 604057601,
+        "fileSize": 212786,
+        "url": "https://github.com/catduckgnaf/zigbee-OTA/blob/master/images/Gledopto/GL-C-006P(MINI)_20451203_20240227.ota",
+        "manufacturerCode": 4687,
+        "imageType": 5138,
+        "sha512": "23817a78e53c1af3a7d010454c02a9438d90cd38ef08874e230917abf540c463c4e7763964cc5fbd5fde4a7f69ad3e10d74f3705d9300ffbde8b0e357c4e2ea8",        
+        "path": "images/Gledopto/GL-C-006P(MINI)_20451203_20240227.ota"
+    }
+]
